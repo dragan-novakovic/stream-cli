@@ -1,0 +1,21 @@
+{
+  "name": "stream-cli",
+  "version": "1.0.0",
+  "description": "cli-tool",
+  "bin": {
+    "hide": "index.js"
+  },
+  "scripts": {
+    "r": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragan-novakovic/stream-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dragan-novakovic/stream-cli/issues"
+  },
+  "homepage": "https://github.com/dragan-novakovic/stream-cli#readme"
+}
